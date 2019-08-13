@@ -1,0 +1,6 @@
+Web Automation - Java, TestNG, Apache Maven, Grovy, GIT, Atlassian Stash , Jenkins Integration, code inspecting through SonarQube 
+- API Automation
+
+
+
+• Defect management
